@@ -1,7 +1,4 @@
-# .dot
 
-
-````md
 # 🧩 .dotfiles
 
 > Personal configuration files for my Linux setup — curated, broken, fixed, and refined over time.
